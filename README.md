@@ -1,1 +1,1 @@
-# AIP2
+# Introduction to AI Programming II
